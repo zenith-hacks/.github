@@ -2,6 +2,8 @@
 
 We'll be releasing more information and details in the weeks to come, so give us a follow, and check us out in Slack.
 
+(psst! we've got more deets on our canvas here: https://hackclub.slack.com/canvas/C07HC6711PX)
+
 ## Contributions
 If you see something that you think you can fix, do a PR! Make sure it's detailed and _really_ explains what you changed.
 
