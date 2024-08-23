@@ -1,4 +1,4 @@
-## Hey! 👋, we're organizing Zenith 2025, a ✨US Hackathon✨ for [@hackclub](https://hackclub.com) leaders!
+## Hey👋! We're organizing Zenith 2025, a ✨US Hackathon✨ for [@hackclub](https://hackclub.com) leaders!
 
 We'll be releasing more information and details in the weeks to come, so give us a follow, and check us out in Slack.
 
