@@ -1,4 +1,25 @@
-## Hi there 👋, we are organizing zenith, a hackathon for hack club leaders
+## Hey! 👋, we're organizing Zenith 2025, a ✨US Hackathon✨ for [@hackclub](https://hackclub.com) leaders!
+
+We'll be releasing more information and details in the weeks to come, so give us a follow, and check us out in Slack.
+
+## Contributions
+If you see something that you think you can fix, do a PR! Make sure it's detailed and _really_ explains what you changed.
+
+## Want to join in?
+We're putting this hackathon on for Hack Club Leaders globally*. Join us in [#hack-zenith-2025](https://hackclub.slack.com/archives/C07HC6711PX) on the Hack Club Slack.
+
+## What is Hack Club?
+Ooh good one! Hack Club is a 501(c)(3) non-profit in the United States! We are 36,063 teen hackersteen hackers from around the world who code together.
+
+## $$
+All of our finances are (soon to be) open & transparent through the wonderful folks at HCB. You can find our ledger at [HCB | Zenith 2025](https://hcb.hackclub.com/zenith-2025) You can donate to us too! (link to follow)
+
+<!--
+aah you found me! we're still doing paperwork!
+Zenith Hacks 2025 is fiscally sponsored by The Hack Foundation (d.b.a. Hack Club), a 501(c)(3) nonprofit (EIN: 81-2908499).
+-->
+
+
 
 <!--
 
